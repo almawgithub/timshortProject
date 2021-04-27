@@ -13,6 +13,8 @@ public class Read_File {
 		
 		System.out.println("GIT HUB Should be updated !!!");
 		
+		System.out.println(" Code Updated from GIT HUB !!!");
+		
 		String filename="C:\\Users\\selam\\Desktop\\FileToRead.txt";
 		String text="";
 	                                  //1. Create file to read
