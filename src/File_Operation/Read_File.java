@@ -11,6 +11,8 @@ public class Read_File {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		System.out.println("GIT HUB Should be updated !!!");
+		
 		String filename="C:\\Users\\selam\\Desktop\\FileToRead.txt";
 		String text="";
 	                                  //1. Create file to read
